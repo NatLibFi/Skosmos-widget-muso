@@ -1,0 +1,6 @@
+{
+    "css": ["muso-plugin.css"],
+    "js": ["muso-plugin.js"],
+    "callback": ["musoWarning"],
+    "templates": ["template.html"]
+}
